@@ -1,0 +1,21 @@
+.football-club-app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.club-info, .achievements, .squad {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+h2, h3 {
+  color: #333;
+}
+
+img {
+  margin-top: 10px;
+  border-radius: 50%;
+}
+
